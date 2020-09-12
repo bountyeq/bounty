@@ -1,4 +1,4 @@
-v0.0.1 - 2020-09-11
+# v0.0.1 - 2020-09-11
 - Server is now available to join
 - Begin merchantlist adjustments on felwithea and felwitheb https://github.com/bountyeq/bounty/issues/13
 - Added initial pass of rules https://github.com/bountyeq/bounty/issues/9
